@@ -1,5 +1,5 @@
-.history/*
-.husky/*
+.history/
+.husky/
 /node_modules/
 /package-lock.json
 *.lock
